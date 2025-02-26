@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0552CA142D6E727D00A53BEB"
-               BuildableName = "TableTalk.app"
-               BlueprintName = "TableTalk"
-               ReferencedContainer = "container:TableTalk.xcodeproj">
+               BuildableName = "TableTalk - Mindfulness Companion.app"
+               BlueprintName = "TableTalk - Mindfulness Companion"
+               ReferencedContainer = "container:TableTalk - Mindfulness Companion.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0552CA142D6E727D00A53BEB"
-            BuildableName = "TableTalk.app"
-            BlueprintName = "TableTalk"
-            ReferencedContainer = "container:TableTalk.xcodeproj">
+            BuildableName = "TableTalk - Mindfulness Companion.app"
+            BlueprintName = "TableTalk - Mindfulness Companion"
+            ReferencedContainer = "container:TableTalk - Mindfulness Companion.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0552CA142D6E727D00A53BEB"
-            BuildableName = "TableTalk.app"
-            BlueprintName = "TableTalk"
-            ReferencedContainer = "container:TableTalk.xcodeproj">
+            BuildableName = "TableTalk - Mindfulness Companion.app"
+            BlueprintName = "TableTalk - Mindfulness Companion"
+            ReferencedContainer = "container:TableTalk - Mindfulness Companion.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

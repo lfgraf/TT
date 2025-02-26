@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0552CA152D6E727D00A53BEB /* TableTalk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableTalk.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0552CA152D6E727D00A53BEB /* TableTalk - Mindfulness Companion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TableTalk - Mindfulness Companion.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		0552CA342D6E731C00A53BEB /* Exceptions for "TT" folder in "TableTalk" target */ = {
+		0552CA342D6E731C00A53BEB /* Exceptions for "TT" folder in "TableTalk - Mindfulness Companion" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 0552CA142D6E727D00A53BEB /* TableTalk */;
+			target = 0552CA142D6E727D00A53BEB /* TableTalk - Mindfulness Companion */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -24,7 +24,7 @@
 		0552CA172D6E727D00A53BEB /* TT */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				0552CA342D6E731C00A53BEB /* Exceptions for "TT" folder in "TableTalk" target */,
+				0552CA342D6E731C00A53BEB /* Exceptions for "TT" folder in "TableTalk - Mindfulness Companion" target */,
 			);
 			path = TT;
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		0552CA162D6E727D00A53BEB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0552CA152D6E727D00A53BEB /* TableTalk.app */,
+				0552CA152D6E727D00A53BEB /* TableTalk - Mindfulness Companion.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0552CA142D6E727D00A53BEB /* TableTalk */ = {
+		0552CA142D6E727D00A53BEB /* TableTalk - Mindfulness Companion */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0552CA232D6E727E00A53BEB /* Build configuration list for PBXNativeTarget "TableTalk" */;
+			buildConfigurationList = 0552CA232D6E727E00A53BEB /* Build configuration list for PBXNativeTarget "TableTalk - Mindfulness Companion" */;
 			buildPhases = (
 				0552CA112D6E727D00A53BEB /* Sources */,
 				0552CA122D6E727D00A53BEB /* Frameworks */,
@@ -76,11 +76,11 @@
 			fileSystemSynchronizedGroups = (
 				0552CA172D6E727D00A53BEB /* TT */,
 			);
-			name = TableTalk;
+			name = "TableTalk - Mindfulness Companion";
 			packageProductDependencies = (
 			);
 			productName = TT;
-			productReference = 0552CA152D6E727D00A53BEB /* TableTalk.app */;
+			productReference = 0552CA152D6E727D00A53BEB /* TableTalk - Mindfulness Companion.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0552CA102D6E727D00A53BEB /* Build configuration list for PBXProject "TableTalk" */;
+			buildConfigurationList = 0552CA102D6E727D00A53BEB /* Build configuration list for PBXProject "TableTalk - Mindfulness Companion" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0552CA142D6E727D00A53BEB /* TableTalk */,
+				0552CA142D6E727D00A53BEB /* TableTalk - Mindfulness Companion */,
 			);
 		};
 /* End PBXProject section */
@@ -333,7 +333,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0552CA102D6E727D00A53BEB /* Build configuration list for PBXProject "TableTalk" */ = {
+		0552CA102D6E727D00A53BEB /* Build configuration list for PBXProject "TableTalk - Mindfulness Companion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0552CA212D6E727E00A53BEB /* Debug */,
@@ -342,7 +342,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0552CA232D6E727E00A53BEB /* Build configuration list for PBXNativeTarget "TableTalk" */ = {
+		0552CA232D6E727E00A53BEB /* Build configuration list for PBXNativeTarget "TableTalk - Mindfulness Companion" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0552CA242D6E727E00A53BEB /* Debug */,
